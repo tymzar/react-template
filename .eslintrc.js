@@ -48,10 +48,6 @@ module.exports = {
         ],
         pathGroupsExcludedImportTypes: ['react'],
         'newlines-between': 'never',
-        alphabetize: {
-          order: 'asc',
-          caseInsensitive: true,
-        },
       },
     ],
     'import/no-extraneous-dependencies': [
